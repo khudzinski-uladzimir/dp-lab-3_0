@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj": {}
+    "C:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj": {
+    "C:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj",
+        "projectUniqueName": "C:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj",
         "projectName": "dp-lab-3_0",
-        "projectPath": "c:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj",
+        "projectPath": "C:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\dp-lab-3_0.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\obj\\",
+        "outputPath": "C:\\Users\\vladi\\Documents\\Study\\Design Patterns\\lab_3\\dp-lab-3_0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
