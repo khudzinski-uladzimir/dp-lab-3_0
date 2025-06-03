@@ -5,7 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        // Task 1: Visitor Pattern Implementation
+        // Task 1: Visitor
         var visitor = new Visitor();
         var cube = new Cube(3);
         cube.Accept(visitor);
@@ -18,7 +18,7 @@ internal class Program
 
         Console.WriteLine("\n\n");
 
-        //Task 2: Strategy Pattern Implementation
+        //Task 2: Strategy
         var context = new Context();
         context.SetStrategy(new StrategyTakeAway());
         context.HandleOrder("123 Main St", "Cafe A");
