@@ -13,11 +13,6 @@ public class Parallelepiped : IFigure
         Height = height;
     }
 
-    public void CalculateVolume()
-    {
-        Console.WriteLine("Calculating volume of the parallelepiped.");
-        Console.WriteLine("Volume: " + Lenght * Width * Height);
-    }
     public void Accept(IVisitor visitor)
     {
         visitor.Visit(this);

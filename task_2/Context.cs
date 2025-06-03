@@ -1,6 +1,6 @@
 namespace lab_3;
 
-public class Context : IStrategy
+public class Context
 {
     private IStrategy? _strategy;
     public void SetStrategy(IStrategy strategy)

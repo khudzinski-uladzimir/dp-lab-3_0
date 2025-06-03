@@ -15,7 +15,6 @@ internal class Program
         torus.Accept(visitor);
         var parallelepiped = new Parallelepiped(2, 3, 4);
         parallelepiped.Accept(visitor);
-        Console.WriteLine("All volumes calculated using the Visitor pattern.\n");
 
 
         //Task 2: Strategy Pattern Implementation

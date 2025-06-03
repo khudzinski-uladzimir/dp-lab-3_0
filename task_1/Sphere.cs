@@ -9,11 +9,6 @@ public class Sphere : IFigure
         Radius = radius;
     }
 
-    public void CalculateVolume()
-    {
-        Console.WriteLine("Calculating volume of the sphere...");
-        Console.WriteLine("Volume: " + 4 / 3 * Math.PI * Math.Pow(Radius, 3));
-    }
     public void Accept(IVisitor visitor)
     {
         visitor.Visit(this);

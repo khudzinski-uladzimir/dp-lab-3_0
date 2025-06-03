@@ -9,14 +9,8 @@ public class Cube : IFigure
         Side = side;
     }
 
-    public void CalculateVolume()
-    {
-        Console.WriteLine("Calculating volume of the cube...");
-        Console.WriteLine("Volume: " + Math.Pow(Side, 3));
-    }
     public void Accept(IVisitor visitor)
     {
         visitor.Visit(this);
     }
-
 }
