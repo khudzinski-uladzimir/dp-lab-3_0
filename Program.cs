@@ -16,6 +16,7 @@ internal class Program
         var parallelepiped = new Parallelepiped(2, 3, 4);
         parallelepiped.Accept(visitor);
 
+        Console.WriteLine("\n\n");
 
         //Task 2: Strategy Pattern Implementation
         var context = new Context();
